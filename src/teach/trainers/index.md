@@ -155,19 +155,19 @@ We have efficient computational methods in modeling all processes involved in RN
   * [Oqtans home page](http://oqtans.org/)
   * [Oqtans Galaxy server](https://galaxy.cbio.mskcc.org/)
 
-### MMG@IICT
+### MMG@CSIR-IICT
 
 <div class='right'><a href='http://mpds.osdd.net/'><img src="/src/public-galaxy-servers/OSDD_MPDS.png" alt="MMG@IICT" width="170" /></a></div>
  
 Workshops and training about the Molecular Property Diagnostic Suite (MPDS).
 
-**Domains:** CADD
+**Domains:** CADD, Chemoinformatics, Molecular Modeling
 
 **Reach:** Based in Hyderabad, India, but willing to train around the world.
 
 **Links & Contact:**
 
-  * [MPDS OSDD home page](http://mpds.osdd.net/)
+  * [MPDS home page](http://mpds.csiriict.in/)(http://mpds.osdd.net/)
   * [Contacts](http://mpds.osdd.net/galaxy/static/contact.htm)
 
 ### Noor Biotechnologies Ltd.
